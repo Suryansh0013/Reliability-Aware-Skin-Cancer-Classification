@@ -159,7 +159,7 @@ All plots are available in the `results/` directory.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your_repo_link>
+git clone <https://github.com/Suryansh0013/Reliability-Aware-Skin-Cancer-Classification>
 cd Reliability-Aware-Skin-Cancer-Classification
 ```
 
@@ -201,5 +201,5 @@ python src/evaluation.py
 
 ## Author
 
-**Tanisha Kumar**  
-B.Tech CSE (AI & ML)
+**Suryansh Ahlawat**  
+B.Tech CSE (Data Science)
